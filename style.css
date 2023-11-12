@@ -58,9 +58,6 @@ body {
   width: 140px;
 }
 
-/* .card:hover {
-    /* cursor: url("Assets/Cursors/GhostHover.cur"), auto; */
-
 .card-face {
   position: absolute;
   width: 100%;
